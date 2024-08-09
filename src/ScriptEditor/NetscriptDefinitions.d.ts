@@ -1423,7 +1423,7 @@ export interface TIX {
    */
   sellShort(sym: string, shares: number): number;
 
-/**
+  /**
    * Place order for stocks.
    * @remarks
    * RAM cost: 2.5 GB
